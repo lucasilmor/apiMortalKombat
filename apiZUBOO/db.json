@@ -1,80 +1,76 @@
 {
-  "elenco": [
+  "Personagens": [
     {
       "id": 1,
-      "nome": "Jovian",
-      "personagem": "Zoboo",
-      "sexo": "macho",
-      "idade": "20"
+      "nome": "Scorpion",
+      "facção": "Shirai Ryu",
+      "rating": 9
     },
     {
       "id": 2,
-      "nome": "Martin William Kratt",
-      "personagem": "Martin Kratt",
-      "sexo": "masculino",
-      "idade": "55"
+      "nome": "Sub-Zero",
+      "facção": "Lin Kuei",
+      "rating": 8
     },
     {
       "id": 3,
-      "nome": "Christopher F. Kratt",
-      "personagem": "Chris Kratt",
-      "sexo": "masculino",
-      "idade": "51"
+      "nome": "Liu-Kang",
+      "facção": "Shaolin",
+      "rating": 10
     },
     {
       "id": 4,
-      "nome": "Samantha Tolkacz",
-      "personagem": "Jackie",
-      "sexo": "feminino",
-      "idade": "36"
+      "nome": "Sônia Blade",
+      "facção": "Special Forces",
+      "rating": 7
     }
   ],
-  "dubladores": [
+  "Cenarios": [
     {
-      "id": 1,
-      "nome": "Sérgio Rufino",
-      "personagem": "Chris Kratt",
-      "idade": "47"
+      "id": 10,
+      "nome": "Ponte dos espinhos",
+      "plano": "Exo Terra"
     },
     {
-      "id": 2,
-      "nome": "Márcio Araújo",
-      "personagem": "Martin Kratt",
-      "idade": "50"
+      "id": 11,
+      "nome": "Base Militar",
+      "plano": "Plano Terreno"
     },
     {
-      "id": 3,
-      "nome": "Mauro Eduardo Lima",
-      "personagem": "Zoboo",
-      "idade": "56"
+      "id": 12,
+      "nome": "Inferno",
+      "plano": "Exo Terra"
     },
     {
-      "id": 4,
-      "nome": "Jussara Marques",
-      "personagem": "Jackie",
-      "idade": "36"
+      "id": 13,
+      "nome": "New York",
+      "plano": "Plano terreno"
     }
   ],
-  "passarosajudantes": [
+  "Poderes": [
     {
-      "id": 1,
-      "nome": "Cara de Lua",
-      "especie": "Coruja"
+      "id": 14,
+      "nome": "Chute Voador",
+      "comando": "frente, frente, chute alto",
+      "versão": "Mortal Kombat 1"
     },
     {
-      "id": 2,
-      "nome": "Tempestade de Areia",
-      "especie": "Falcão"
+      "id": 15,
+      "nome": "Invisibilidade ",
+      "comando": "Bloqueio e aperte Cima, Cima, Corrida",
+      "versão": "Mortal Kombat 3"
     },
     {
-      "id": 3,
-      "nome": "Pegajoso",
-      "especie": "Falcão-peregrino"
+      "id": 16,
+      "nome": "lança",
+      "comando": "atrás, atrás, soco baixo",
+      "versão": "Mortal Kombat 9"
     },
     {
-      "id": 4,
-      "nome": "Blink",
-      "especie": "Coruja-orelhuda"
+      "id": 17,
+      "nome": "Congelar",
+      "comando": " Frente, soco baixo",
+      "versão": "Mortal Kombat 11"
     }
   ]
 }
