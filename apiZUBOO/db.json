@@ -1,0 +1,80 @@
+{
+  "elenco": [
+    {
+      "id": 1,
+      "nome": "Jovian",
+      "personagem": "Zoboo",
+      "sexo": "macho",
+      "idade": "20"
+    },
+    {
+      "id": 2,
+      "nome": "Martin William Kratt",
+      "personagem": "Martin Kratt",
+      "sexo": "masculino",
+      "idade": "55"
+    },
+    {
+      "id": 3,
+      "nome": "Christopher F. Kratt",
+      "personagem": "Chris Kratt",
+      "sexo": "masculino",
+      "idade": "51"
+    },
+    {
+      "id": 4,
+      "nome": "Samantha Tolkacz",
+      "personagem": "Jackie",
+      "sexo": "feminino",
+      "idade": "36"
+    }
+  ],
+  "dubladores": [
+    {
+      "id": 1,
+      "nome": "Sérgio Rufino",
+      "personagem": "Chris Kratt",
+      "idade": "47"
+    },
+    {
+      "id": 2,
+      "nome": "Márcio Araújo",
+      "personagem": "Martin Kratt",
+      "idade": "50"
+    },
+    {
+      "id": 3,
+      "nome": "Mauro Eduardo Lima",
+      "personagem": "Zoboo",
+      "idade": "56"
+    },
+    {
+      "id": 4,
+      "nome": "Jussara Marques",
+      "personagem": "Jackie",
+      "idade": "36"
+    }
+  ],
+  "passarosajudantes": [
+    {
+      "id": 1,
+      "nome": "Cara de Lua",
+      "especie": "Coruja"
+    },
+    {
+      "id": 2,
+      "nome": "Tempestade de Areia",
+      "especie": "Falcão"
+    },
+    {
+      "id": 3,
+      "nome": "Pegajoso",
+      "especie": "Falcão-peregrino"
+    },
+    {
+      "id": 4,
+      "nome": "Blink",
+      "especie": "Coruja-orelhuda"
+    }
+  ]
+}
